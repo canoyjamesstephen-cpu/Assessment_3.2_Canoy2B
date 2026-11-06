@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c82cfd1-3f67-4a1f-a25d-87cd3cecac40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CANOY_IT2B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1012668877336986" />
+      <entry key="MS500" value="1.995978193837279" />
+      <entry key="S2" value="2.6698625653144084" />
+      <entry key="S5" value="2.8598383151011344" />
+      <entry key="S10" value="2.9290329701049203" />
+      <entry key="S30" value="3.0575787426520185" />
+      <entry key="S60" value="3.2737835177334196" />
+      <entry key="M2" value="3.5286305198023102" />
+      <entry key="M5" value="3.7760441040354005" />
+      <entry key="M10" value="3.88109646531079" />
+      <entry key="M15" value="3.919105463080338" />
+      <entry key="M30" value="3.958717206530003" />
+      <entry key="H1" value="3.979145340705115" />
+      <entry key="H2" value="3.9895187969969563" />
+      <entry key="H4" value="3.9947458598069847" />
+      <entry key="D1" value="3.9991224235928233" />
+      <entry key="W1" value="3.9998745856664355" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0634451035983534" />
+      <entry key="MS500" value="1.9724304786182687" />
+      <entry key="S2" value="2.6598914283729655" />
+      <entry key="S5" value="2.8553568736274726" />
+      <entry key="S10" value="2.926652513406226" />
+      <entry key="S30" value="3.054241168431364" />
+      <entry key="S60" value="3.2689054896552285" />
+      <entry key="M2" value="3.5242266497548793" />
+      <entry key="M5" value="3.7735102483261267" />
+      <entry key="M10" value="3.879664810165367" />
+      <entry key="M15" value="3.9181112364377837" />
+      <entry key="M30" value="3.958199345017517" />
+      <entry key="H1" value="3.978881057227879" />
+      <entry key="H2" value="3.9893852958566582" />
+      <entry key="H4" value="3.9946787667010852" />
+      <entry key="D1" value="3.9991111936046417" />
+      <entry key="W1" value="3.9998729802087007" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LjID3ScyiqVDxkvAF8ljFZX72J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.array.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c82cfd1-3f67-4a1f-a25d-87cd3cecac40" name="Changes" comment="" />
+      <created>1793960928795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793960928795</updated>
+      <workItem from="1793960929806" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CANOY_IT2B$array.coverage" NAME="array Coverage Results" MODIFIED="1793961238638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
